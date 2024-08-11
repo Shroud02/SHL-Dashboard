@@ -65,7 +65,7 @@
 [High-Level Documentation](https://github.com/Shroud02/SHL-Dashboard/blob/main/High%20level%20doc.pdf)
 
 
-[Architecture Documentation](https://github.com/Sandy1114D/SHL-construction-site-management/blob/main/Architecture%20Design%20Document.pdf)
+[Architecture Documentation](https://github.com/Shroud02/SHL-Dashboard/blob/main/Architecture%20Design%20Document.pdf)
 
 
 
