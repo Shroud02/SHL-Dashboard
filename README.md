@@ -62,7 +62,7 @@
 <div style="background-color: #333; padding: 20px;">
 <h2 style="color: #E67E22; font-size: 24px;">📖 Documentation</h2>
 
-[High-Level Documentation](https://github.com/Sandy1114D/SHL-construction-site-management/blob/main/High%20level%20doc.pdf)
+[High-Level Documentation](https://github.com/Shroud02/SHL-Dashboard/blob/main/High%20level%20doc.pdf)
 
 
 [Architecture Documentation](https://github.com/Sandy1114D/SHL-construction-site-management/blob/main/Architecture%20Design%20Document.pdf)
